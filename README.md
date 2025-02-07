@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jeeva484
+- 👋 Hi, I’m @Jeeva Sugin D
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning html,css,js
 - 💞️ I’m looking to collaborate on info tech
